@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{3FF78C2C-5A14-4275-98E8-751A1A4398E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleTon", "SingleTon\SingleTon.csproj", "{63AB3D7A-90E4-444E-993D-C6C3475D1969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3FF78C2C-5A14-4275-98E8-751A1A4398E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF78C2C-5A14-4275-98E8-751A1A4398E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF78C2C-5A14-4275-98E8-751A1A4398E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AB3D7A-90E4-444E-993D-C6C3475D1969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AB3D7A-90E4-444E-993D-C6C3475D1969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AB3D7A-90E4-444E-993D-C6C3475D1969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AB3D7A-90E4-444E-993D-C6C3475D1969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
